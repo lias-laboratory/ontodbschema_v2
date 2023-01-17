@@ -47,4 +47,4 @@ $ psql -U postgres template_ontodb < template_ontodb_postgresql.sql
 
 ## Software licence agreement
 
-Details the license agreement of PARAD: [LICENCE](LICENCE)
+Details the license agreement of OntoDBSchema V2: [LICENCE](LICENCE)
