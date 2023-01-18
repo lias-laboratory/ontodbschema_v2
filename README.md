@@ -32,6 +32,8 @@ The OntoDB schema can be downloaded into the _sql_ directory.
 
 ## Software requirements
 
+OntoDBSchema can be deployed to:
+
 * Postgresql
 * Oracle
 * HSQLDB
