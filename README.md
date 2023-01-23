@@ -51,8 +51,7 @@ $ psql -U postgres template_ontodb < template_ontodb_postgresql.sql
 
 Details the license agreement of OntoDBSchema V2: [LICENCE](LICENCE)
 
-
-## Historic Contributors
+## Historic Contributors (core developers first followed by alphabetical order)
 
 * [Chimène FANJAM(core developer)](https://www.lias-lab.fr/members/chimenefankam/)
 * [Mickael BARON(core developer)](https://www.lias-lab.fr/members/mickaelbaron/)
