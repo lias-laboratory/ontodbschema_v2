@@ -49,7 +49,7 @@ $ psql -U postgres template_ontodb < template_ontodb_postgresql.sql
 
 ## Software licence agreement
 
-Details the license agreement of OntoDBSchema V2: [LICENCE](LICENCE)
+Details the license agreement of OntoDBSchema V2: [LICENSE](LICENSE)
 
 ## Historic Contributors (core developers first followed by alphabetical order)
 
