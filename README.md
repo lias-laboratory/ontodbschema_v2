@@ -47,7 +47,7 @@ $ createdb -U postgres template_ontodb
 $ psql -U postgres template_ontodb < template_ontodb_postgresql.sql
 ```
 
-## Software licence agreement
+## Software license agreement
 
 Details the license agreement of OntoDBSchema V2: [LICENSE](LICENSE)
 
